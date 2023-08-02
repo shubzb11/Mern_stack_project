@@ -1,4 +1,4 @@
-<h1 align="center">Asos Clone</h1>
+<h1 align="center"> New</h1>
 
 <h3 align="center">Mern stack web application</h3>
 
@@ -96,7 +96,6 @@ ASOS is a fashion brand for the newest & trending Cloths, fashion accessories an
 
 <br />
 
-## Glimpses of Asos-Clone 🙈 :
 
 <!--
 <table>
